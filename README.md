@@ -1,8 +1,6 @@
 # zscore-probability
 
-The following functions calculate probability from a z-score (as if you looked it up in a z-table) 
-
-It also calculates the z-score from a probability. 
+The following functions calculate probability from a z-score and z-score from a probability. 
 
 See [test.js](test.js) for a couple of examples. 
 

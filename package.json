@@ -16,5 +16,13 @@
     "probability",
     "probability-to-zscore",
     "zscore-to-probability"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/zscore-probability.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diversen/zscore-probability/issues"
+  },
+  "homepage": "https://github.com/diversen/zscore-probability#readme"
 }
