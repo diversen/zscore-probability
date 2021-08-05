@@ -1,0 +1,20 @@
+{
+  "name": "zscore-probability",
+  "version": "1.0.0",
+  "description": "The following functions calculate probability from a z-score and also z-score from a probability. ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "ztable",
+    "probability",
+    "probability-to-zscore",
+    "zscore-to-probability"
+  ]
+}
