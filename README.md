@@ -2,7 +2,13 @@
 
 The following functions calculate probability from a z-score and z-score from a probability. 
 
+## Install
+
+npm install --save zscore-probability
+
 See [test.js](test.js) for a couple of examples. 
+
+## About the code
 
 Found on [https://stackoverflow.com/a/36903699/464549](https://stackoverflow.com/a/36903699/464549)
 

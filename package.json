@@ -1,6 +1,6 @@
 {
   "name": "zscore-probability",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The following functions calculate probability from a z-score and also z-score from a probability. ",
   "main": "index.js",
   "type": "module",
